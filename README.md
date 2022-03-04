@@ -1,6 +1,6 @@
 # Elevator Pitch Soldering Instruction Manual
 
 Link:
-https://markciora.github.io/SolderingInstructionManual/
+https://markciora.github.io/SolderingElevatorPitch/
 
 
